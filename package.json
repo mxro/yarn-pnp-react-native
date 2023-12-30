@@ -1,0 +1,13 @@
+{
+  "name": "yarn-pnp-react-native",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "git@github.com:mxro/yarn-pnp-react-native.git",
+  "author": "Max Rohde <1448524+mxro@users.noreply.github.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.0.2"
+}
